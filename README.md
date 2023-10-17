@@ -1,4 +1,4 @@
-# Hello there! I'm Cláudio Zicri 
+# Hello there! I'm Cláudio Zicri (🇧🇷)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;+I'm+a+Computer+Science+engineer!)
 ![AppJedi](https://cdn3.emoji.gg/emojis/9756_AppJedi.gif)
