@@ -12,11 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiKriDev&size_weight=0.5&count_weight=0.5)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px; margin-right: 1px;">
-  <h3 style="margin: 0 10px;">Languages and Tools</h3>
-  <img src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px; margin-left: 1px;">
-</div>
+### Languages and Tools  
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><img align="center" alt="C" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -24,8 +20,6 @@
 
 🖥️⌨️ Passionate about solving problems with programming 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/ZiKriDev/ZiKriDev/blob/output/github-contribution-grid-snake.svg)
+
+
