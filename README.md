@@ -13,9 +13,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiKriDev&size_weight=0.5&count_weight=0.5)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px; margin-right: 0px;">
+  <img src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px; margin-right: 1px;">
   <h3 style="margin: 0 10px;">Languages and Tools</h3>
-  <img src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px; margin-left: 0px;">
+  <img src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px; margin-left: 1px;">
 </div>
 
 <div style="display: inline_block"><br/>
