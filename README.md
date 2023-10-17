@@ -1,6 +1,7 @@
-# Hello there! I'm Cláudio Zicri ![AppJedi](https://cdn3.emoji.gg/emojis/9756_AppJedi.gif)
+# Hello there! I'm Cláudio Zicri 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;+I'm+a+Computer+Science+engineer!)
+![AppJedi](https://cdn3.emoji.gg/emojis/9756_AppJedi.gif)
 
 - 💼 I'm a Computer Science student
 - 🌱 Studying Java and JavaFX
@@ -18,7 +19,7 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><img align="center" alt="C" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
-🖥️⌨️ Passionate about solving problems with programming 
+<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;">Passionate about solving problems with programming<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;"><br/>
 
 ![Snake animation](https://github.com/ZiKriDev/ZiKriDev/blob/output/github-contribution-grid-snake.svg)
 
