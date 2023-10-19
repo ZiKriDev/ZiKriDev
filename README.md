@@ -21,6 +21,5 @@
 
 <img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;">Passionate about solving problems with programming<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;"><br/>
 
-![Snake animation](https://github.com/ZiKriDev/ZiKriDev/blob/output/github-contribution-grid-snake.svg)
 
 
