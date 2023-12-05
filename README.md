@@ -7,7 +7,7 @@
 - 🌱 Studying Java and JavaFX
 - 👯 I’m looking to collaborate on backend software engineering projects
 
-<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cláudio-zicri-silva-3284231b5/)[![GamersBoard](https://i.imgur.com/geaYGjj.png)](https://gamersboard.com.br/profile/38495-col%C3%B4nias-rpg/)<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="zikri8010">
+<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-zicri/)<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="zikri8010">
 
 ![ZiKri GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiKriDev&show_icons=true&theme=radical)
 
