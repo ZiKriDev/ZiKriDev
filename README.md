@@ -18,6 +18,7 @@
 
 <div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
+  <code><img height="65" src="https://www.qftest.com/fileadmin/Webdata/logos-icons/JavaFX.png" alt="JavaFX" title="JavaFX" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
@@ -29,6 +30,10 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" /></code>
+  <code><img height="50" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" title="MySQL" /></code>
+  <code><img height="50" src="https://download.logo.wine/logo/Apache_Cassandra/Apache_Cassandra-Logo.wine.png" alt="Cassandra" title="Cassandra" /></code>
+  <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png" alt="Docker" title="Docker" /></code>
+  <code><img height="40" src="https://tasmota.github.io/docs/_media/logo.svg" alt="Tasmota" title="Tasmota" /></code>
 </div>
 
 ###
