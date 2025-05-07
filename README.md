@@ -33,6 +33,7 @@
   <code><img height="50" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" title="MySQL" /></code>
   <code><img height="50" src="https://download.logo.wine/logo/Apache_Cassandra/Apache_Cassandra-Logo.wine.png" alt="Cassandra" title="Cassandra" /></code>
   <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png" alt="Docker" title="Docker" /></code>
+  <code><img height="40" src="https://berry-lang.github.io/assets/images/logo.svg" alt="Berry" title="Berry" /></code>
   <code><img height="40" src="https://tasmota.github.io/docs/_media/logo.svg" alt="Tasmota" title="Tasmota" /></code>
 </div>
 
