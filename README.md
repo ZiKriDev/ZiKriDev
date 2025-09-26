@@ -9,8 +9,6 @@
 
 <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-zicri/)<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="zikri8010">
 
-![ZiKri GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiKriDev&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiKriDev&size_weight=0.5&count_weight=0.5)
 
 ### Languages and Tools
@@ -41,5 +39,8 @@
 
 <img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;">Passionate about solving problems with programming<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;"><br/>
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
