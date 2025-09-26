@@ -35,9 +35,8 @@
   <code><img height="40" src="https://tasmota.github.io/docs/_media/logo.svg" alt="Tasmota" title="Tasmota" /></code>
 </div>
 
-###
-
-<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;">Passionate about solving problems with programming<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;"><br/>
+<br/><br/>
+<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;">Passionate about solving problems with programming<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;"><br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiKriDev/ZiKriDev/7b4fd4332214409584c9cc0a3a4296088c0bc90b/pacman-contribution-graph-dark.svg">
