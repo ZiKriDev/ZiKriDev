@@ -40,7 +40,7 @@
 <img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;">Passionate about solving problems with programming<img align="bottom" src="https://i.imgur.com/lJEWxk2.gif" alt="Tag" style="width: 30px; height: 30px;"><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiKriDev/ZiKriDev/7b4fd4332214409584c9cc0a3a4296088c0bc90b/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiKriDev/ZiKriDev/7b4fd4332214409584c9cc0a3a4296088c0bc90b/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZiKriDev/ZiKriDev/output/pacman-contribution-graph.svg">
 </picture>
