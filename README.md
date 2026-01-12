@@ -9,7 +9,9 @@
 
 <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-zicri/)<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="zikri8010">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiKriDev&size_weight=0.5&count_weight=0.5)
+<div style="display: flex;">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZiKriDev&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=ayu-mirage&hide_border=true"/>
+</div>
 
 ### Languages and Tools
 ###
